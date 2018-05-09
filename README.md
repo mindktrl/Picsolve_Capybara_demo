@@ -1,5 +1,7 @@
 # Picsolve_Capybara_demo
 
+# Clone this repo
+
 # Installation
 
 	gem install cucumber
